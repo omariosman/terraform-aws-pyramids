@@ -1,0 +1,1 @@
+#This is a module to create EC2 instance on AWS and run juno node once it boots up.
